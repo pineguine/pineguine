@@ -1,0 +1,30 @@
+.heading {
+    text-align: center;
+    color: #1C1427;
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+
+body {
+    border: solid 2px grey;
+    background-color: white;
+    margin: 0px;
+    
+}
+
+img {
+    height: 500px;
+    border: solid 20px gold dotted;
+    padding: 10px;
+}
+
+.nav-hanna {
+    position: relative;
+    text-align: left;
+    left: 5cm;
+    top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #828BFF;
+}

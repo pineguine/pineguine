@@ -1,0 +1,66 @@
+
+  
+img {
+    height: 60px;
+    align-content: center;
+}
+
+.imgs {
+    top: 10%; 
+    left: 60%; 
+    position: absolute;
+    margin-top: -50px;  
+    margin-left: -420px;
+}
+
+a {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+/* .indian {
+    color: #400D51;
+    text-decoration: underline overline dotted whitesmoke;
+
+} */
+
+
+
+.favourite {
+    top: 50%; 
+    left: 50%; 
+    position: absolute;
+    margin-top: -50px;  
+    margin-left: -420px;
+    color: #FB3640;
+    text-decoration: #2E0249;
+}
+
+.about {
+    top: 60%; 
+    left: 50%; 
+    position: absolute;
+    margin-top: -50px;  
+    margin-left: -420px;
+    color: #F21170;
+    text-decoration: #2E0249;
+}
+
+.contact {
+    top: 70%; 
+    left: 50%; 
+    position: absolute;
+    margin-top: -50px;  
+    margin-left: -420px;
+    text-decoration:  #2E0249;
+    color: #FA9905;
+}
+
+.suggest {
+    top: 80%; 
+    left: 50%; 
+    position: absolute;
+    margin-top: -50px;  
+    margin-left: -420px;
+    color: #FF5200;
+    text-decoration:  #2E0249;
+}
